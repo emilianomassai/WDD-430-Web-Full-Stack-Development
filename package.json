@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "name": "wdd-430-web-full-stack-development",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianomassai/WDD-430-Web-Full-Stack-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilianomassai/WDD-430-Web-Full-Stack-Development/issues"
+  },
+  "homepage": "https://github.com/emilianomassai/WDD-430-Web-Full-Stack-Development#readme"
+}
